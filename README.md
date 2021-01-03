@@ -14,7 +14,7 @@ I have a curious mind with an ambition to achieve something big! Currently, I am
 
 ---
 
-[![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=Sid-149&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-149&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=Sid-149&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-149&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <p align="center">
