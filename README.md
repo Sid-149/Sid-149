@@ -16,13 +16,4 @@ I have a curious mind with an ambition to achieve something big! Currently, I am
 
 [![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=Sid-149&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-149&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
----
-<p align="center">
-    <a href="mailto:siddhantmeshram149@gmail.com"><img src=""></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/siddhant-meshram/"><img src=""></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/Sid__149"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-twitter-16.png></a>&nbsp;&nbsp;
-    <a href="https://www.youtube.com/channel/UCt2cSNxbUDoFBW63KzFdOCA"><img src=""></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/sid_149/"><img src=""></a>&nbsp;&nbsp;
-    <a href="https://www.researchgate.net/profile/Siddhant_Meshram"><img src=""></a>&nbsp;&nbsp;
-    <a href="https://www.snapchat.com/add/sid_m101"><img src=""></a>&nbsp;&nbsp;
-</p>
+
