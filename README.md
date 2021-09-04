@@ -1,13 +1,13 @@
 # Hey there, I am Siddhant Sunil Meshram 👋
-### Data Science & Tech Enthusiast 👨‍💻📊 | Engineering Student at SIES Graduate School of Technology👨🏼‍🎓 ![](https://komarev.com/ghpvc/?username=Sid-149&color=grey)
+### Data Science & Tech Enthusiast 👨‍💻📊 | Graduate Student at Indiana University Bloomington👨🏼‍🎓 ![](https://komarev.com/ghpvc/?username=Sid-149&color=grey)
 
 ---
 
 #### Little about me...
-I have a curious mind with an ambition to achieve something big! Currently, I am an undergrad student at SIES Graduate School of Technology, where I learn Electronics & Telecommunication (EXTC). My fascination for "Science" & "Technology" has led me to take up Engineering! Moreover, my academics have always been a defining characteristic of mine. I have a strong foundation of concepts like Embedded Systems, IoT, Programming with Python, Machine Learning & Data Sciences!
+I have a curious mind with an ambition to achieve something big! Currently, I am a graduate student at Indiana University Bloomington, where I am pursuing MS in Data Science. My fascination for "Science" & "Technology" had led me to take up Engineering! Moreover, my academics have always been a defining characteristic of mine. I have a strong foundation of concepts like Embedded Systems, IoT, Programming with Python, Machine Learning & Data Sciences!
 
-- 🔭 I’m currently working on Conversational AIs (Chatbots)
-- 🌱 I’m currently learning Rasa Framework
+- 🔭 I’m currently working on ................
+- 🌱 I’m currently learning R Programming & Advanced Database Concepts
 - 💬 Ask me about Python, ML & Data Sciences
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Binge Watcher
