@@ -6,8 +6,8 @@
 #### Little about me...
 I have a curious mind with an ambition to achieve something big! Currently, I am a graduate student at Indiana University Bloomington, where I am pursuing MS in Data Science. My fascination for "Science" & "Technology" had led me to take up Engineering! Moreover, my academics have always been a defining characteristic of mine. I have a strong foundation of concepts like Embedded Systems, IoT, Programming with Python, Machine Learning & Data Sciences!
 
-- 🔭 I’m currently working on ................
-- 🌱 I’m currently learning R Programming & Advanced Database Concepts
+[//]: <> (- 🔭 I’m currently working on )
+- 🌱 I’m currently learning Visualization Techniques, Machine Learning & Bioinformatics
 - 💬 Ask me about Python, ML & Data Sciences
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Binge Watcher
