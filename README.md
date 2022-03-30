@@ -20,12 +20,12 @@ I have a curious mind with an ambition to achieve something big! Currently, I am
 <p align="center">
     <a href="mailto:siddhantmeshram149@gmail.com"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-gmail-64.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/siddhant-meshram/"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-linkedin-64.png"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/Sid__149"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-twitter-64.png"></a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/siddhant.meshram.56"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-facebook-64.png"></a>&nbsp;&nbsp;
+    <!---<a href="https://twitter.com/Sid__149"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-twitter-64.png"></a>&nbsp;&nbsp;--->
+    <!---<a href="https://www.facebook.com/siddhant.meshram.56"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-facebook-64.png"></a>&nbsp;&nbsp;--->
     <a href="https://www.youtube.com/channel/UCt2cSNxbUDoFBW63KzFdOCA"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-play-button-64.png"></a>&nbsp;&nbsp;
     <a href="https://drive.google.com/file/d/1s2P1zOOFFqxpTCyOj7smsmYVK6T27X-O/view?usp=sharing"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-download-resume-64.png"></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/sid_149/"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-instagram-64.png"></a>&nbsp;&nbsp;
-    <a href="https://www.snapchat.com/add/sid_m101"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-snapchat-64.png"></a>&nbsp;&nbsp;
+    <!---<a href="https://www.instagram.com/sid_149/"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-instagram-64.png"></a>&nbsp;&nbsp;--->
+    <!---<a href="https://www.snapchat.com/add/sid_m101"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-snapchat-64.png"></a>&nbsp;&nbsp;--->
     <a href="https://www.researchgate.net/profile/Siddhant_Meshram"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-concept-64.png"></a>&nbsp;&nbsp;
     <a href="https://scholar.google.com/citations?user=QWQp0ZoAAAAJ&hl=en"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-google-scholar-64.png"></a>&nbsp;&nbsp;
 </p>
