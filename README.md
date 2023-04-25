@@ -4,7 +4,7 @@
 ---
 
 #### Little about me...
-I have a curious mind with an ambition to achieve something big! Currently, I am a graduate student at Indiana University Bloomington, where I am pursuing MS in Data Science. My fascination for "Science" & "Technology" had led me to take up Engineering! Moreover, my academics have always been a defining characteristic of mine. I have a strong foundation of concepts like Embedded Systems, IoT, Programming with Python, Machine Learning & Data Sciences!
+As a data science graduate student, I am passionate about utilizing my analytical and technical skills to solve complex problems and make data-driven decisions. My coursework and research have given me a solid foundation in Python, Machine learning, SQL, Tableau, and R. Along with this, I possess excellent communication and decision-making skills, and I am enthusiastic about applying my knowledge and skills to work.
 
 [//]: <> (- 🔭 I’m currently working on )
 - 🌱 I’m currently learning Advanced Visualization Techniques & Machine Learning
