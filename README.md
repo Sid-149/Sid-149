@@ -23,7 +23,7 @@ As a data science graduate student, I am passionate about utilizing my analytica
     <!---<a href="https://twitter.com/Sid__149"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-twitter-64.png"></a>&nbsp;&nbsp;--->
     <!---<a href="https://www.facebook.com/siddhant.meshram.56"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-facebook-64.png"></a>&nbsp;&nbsp;--->
     <a href="https://www.youtube.com/channel/UCt2cSNxbUDoFBW63KzFdOCA"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-play-button-64.png"></a>&nbsp;&nbsp;
-    <a href="https://drive.google.com/file/d/14Wr78Zt4w230vvMuplewFJOHf-6cXy3A/view?usp=share_link"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-download-resume-64.png"></a>&nbsp;&nbsp;
+    <a href="https://drive.google.com/file/d/1P_pR_fHTpy5eR6rKPbYC3LjHIDqLKqc_/view?usp=share_link"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-download-resume-64.png"></a>&nbsp;&nbsp;
     <!---<a href="https://www.instagram.com/sid_149/"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-instagram-64.png"></a>&nbsp;&nbsp;--->
     <!---<a href="https://www.snapchat.com/add/sid_m101"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-snapchat-64.png"></a>&nbsp;&nbsp;--->
     <a href="https://www.researchgate.net/profile/Siddhant_Meshram"><img src="https://github.com/Sid-149/Sid-149/blob/master/Badges/icons8-concept-64.png"></a>&nbsp;&nbsp;
