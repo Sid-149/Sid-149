@@ -14,7 +14,7 @@ As a data science graduate student, I am passionate about utilizing my analytica
 
 ---
 
-[![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=Sid-149&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-149&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Siddhant's github stats](https://github-readme-stats.vercel.app/api/?username=Sid-149&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Sid-149&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <p align="center">
