@@ -1,5 +1,5 @@
 # Hey there, I am Siddhant Sunil Meshram 👋
-### Data Science & Tech Enthusiast 👨‍💻📊 | Graduate Student at Indiana University Bloomington👨🏼‍🎓 ![](https://komarev.com/ghpvc/?username=Sid-149&color=grey)
+### Data Science & Tech Enthusiast 👨‍💻📊 ![](https://komarev.com/ghpvc/?username=Sid-149&color=grey)
 
 ---
 
