@@ -1,16 +1,16 @@
-# Hey there, I am Siddhant Sunil Meshram 👋
-### Data Science & Tech Enthusiast 👨‍💻📊 ![](https://komarev.com/ghpvc/?username=Sid-149&color=grey)
+# Hey there, I am Siddhant Meshram 👋
+### PhD Student in Biostatistics @ School of Public Health, Indiana University 👨‍💻📊 ![](https://komarev.com/ghpvc/?username=Sid-149&color=grey)
 
 ---
 
-#### Little about me...
-As a data science graduate student, I am passionate about utilizing my analytical and technical skills to solve complex problems and make data-driven decisions. My coursework and research have given me a solid foundation in Python, Machine learning, SQL, Tableau, and R. Along with this, I possess excellent communication and decision-making skills, and I am enthusiastic about applying my knowledge and skills to work.
+<!---#### Little about me...
+As a data science graduate student, I am passionate about utilizing my analytical and technical skills to solve complex problems and make data-driven decisions. My coursework and research have given me a solid foundation in Python, Machine learning, SQL, Tableau, and R. Along with this, I possess excellent communication and decision-making skills, and I am enthusiastic about applying my knowledge and skills to work.--->
 
 [//]: <> (- 🔭 I’m currently working on )
-- 🌱 I’m currently learning Advanced Visualization Techniques & Machine Learning
-- 💬 Ask me about Python, ML & Data Science
+- 🌱 I’m currently learning R, Statistical Distribution & Epidemiology
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Binge Watcher
+<!---- 💬 Ask me about --->
 
 ---
 
